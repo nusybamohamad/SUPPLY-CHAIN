@@ -27,7 +27,7 @@ The main problem is the **inefficient management of supply and inventory** along
 ---
 
 
- Dashboard Overview
+ ##  Dashboard Demo 
 
 ![Uploading image.png…]()
 
