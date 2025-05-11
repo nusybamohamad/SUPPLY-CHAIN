@@ -1,12 +1,12 @@
 # 📦 Supply Chain Data Analysis Project
 
-## 📌 Project Overview  
+## Project Overview  
 In this project, we analyzed a comprehensive supply chain dataset from **DataCo Global**. The dataset includes detailed information related to orders, products, shipping, customers, costs, and profits over several years.  
 We used tools such as **Excel**, **Tableau**, and **Power BI** to extract insights aimed at improving operational efficiency and reducing risks within the supply chain.
 
 ---
 
-## ❗ Problem Statement  
+##  Problem Statement  
 Although there is continuous production of products, the dataset reveals significant issues:
 
 - Some products are manufactured but do not get sold.
@@ -17,7 +17,7 @@ The main problem is the **inefficient management of supply and inventory** along
 
 ---
 
-## 🔍 Key Insights  
+##  Key Insights  
 
 - **High Delivery Delays:** Categories such as athletic footwear (e.g., cleats) exhibit the highest delay rates.  
 - **Consistent Performance in Electronics:** Electronic products have the lowest incidence of delays.  
@@ -27,7 +27,7 @@ The main problem is the **inefficient management of supply and inventory** along
 ---
 
 
-📊 Dashboard Overview
+ Dashboard Overview
 
 ![Uploading image.png…]()
 
@@ -48,7 +48,7 @@ Map view shows performance across different regions.
 It helps identify issues in delivery, pricing, and product performance to improve decisions.
 
 
-## ✅ Recommendations  
+##  Recommendations  
 
 1. **Enhance Demand Forecasting**  
    Implement more accurate forecasting models to ensure production aligns with market demand.
@@ -67,7 +67,7 @@ It helps identify issues in delivery, pricing, and product performance to improv
 
 ---
 
-## 📌 Conclusion  
+##  Conclusion  
 This project demonstrates how data analysis can uncover critical supply chain issues and enable businesses to make smarter decisions.  
 By identifying weaknesses such as delayed deliveries and unsold inventory, we proposed actionable strategies to boost **profitability** and improve **operational efficiency**.  
 Ultimately, the analysis shows the value of **data-driven decision-making** in solving real-world business problems.
