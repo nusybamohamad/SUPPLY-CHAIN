@@ -31,19 +31,12 @@ The main problem is the **inefficient management of supply and inventory** along
 ![Image](https://github.com/user-attachments/assets/28ee95f3-d8f6-4aa6-8288-2c4a55e8fa5b)
 
 This dashboard gives a quick insight into the supply chain's performance:
-
 Profit: $3.97M | Net Sales: $29.3M
-
 Sales dropped in 2018, which needs investigation.
-
 Delays are high in categories like Cleats and Men’s Footwear.
-
 Most profitable categories: Fishing and Cleats.
-
 Discounts sometimes reduce profits instead of boosting sales.
-
 Map view shows performance across different regions.
-
 It helps identify issues in delivery, pricing, and product performance to improve decisions.
 
 
