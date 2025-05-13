@@ -29,7 +29,7 @@ The main problem is the **inefficient management of supply and inventory** along
 
  ##  Dashboard Demo 
 
-![Uploading image.png…]()
+![Uploading image.png…]()=true
 
 This dashboard gives a quick insight into the supply chain's performance:
 
